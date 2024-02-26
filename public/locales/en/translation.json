@@ -1,0 +1,81 @@
+{
+  "app-title": "Home | Nick Mullenmeister • Portfolio",
+  "loading": "Loading...",
+  "greetings": "Hi there, I'm ",
+  "name": "QQbubu",
+  "name-end": ".",
+  "sub-heading": "Welcome to my Portfolio.",
+  "more-info": "I'm a web developer based in Minnesota who builds interesting and beautiful websites that help people. My current focus is on accessible React applications. I also love Japan.",
+  "resume-btn": "resume",
+  "about-heading": "about me",
+  "about-text-top": "Hi! My name is Nick and I like building things for the web. I was introduced to web development during high school, but I became much more engaged in the field after graduating from a coding boot camp in 2022. Since then I have continued to hone my programming skills through consistent practice and dedication.",
+  "about-text-bottom": "Outside of the coding world, I enjoy traveling and studying Japanese. I spent a few years living in Japan, where I taught English and studied Japanese culture. I also play video games, DJ, enjoy pencil drawing, and practice the piano during my free time.",
+  "technology-heading": "technology",
+  "projects-heading": "projects",
+  "featured-tag": "featured project",
+  "projects": [
+    {
+      "id": 1,
+      "description": "A search application that utilizes the moogle API to search for Final Fantasy characters; users can search for the games and characters from the main series."
+    },
+    {
+      "id": 2,
+      "description": "A 'task manager' or todo application built with React. Users can add, delete, edit, and view their tasks. I've also included drag and drop functionality to reorder tasks, a mark as complete option, and a dark/light theme toggler."
+    },
+    {
+      "id": 3,
+      "description": "An application based on the traditional game with two extra player choices originating from 'The Big Bang Theory'. Users can play against a computer on their mobile device or desktop and try to get a high score."
+    },
+    {
+      "id": 4,
+      "description": "A thematic and responsive calculator that allows users to easily add, subtract, and divide positive integers and floating point numbers."
+    },
+    {
+      "id": 5,
+      "description": "A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently."
+    },
+    {
+      "id": 6,
+      "description": "A mobile responsive landing page for a fictional messaging company called 'Huddle'."
+    },
+    {
+      "id": 7,
+      "description": "A mobile-responsive app that allows users to get random pieces of advice with the click of a button."
+    },
+    {
+      "id": 8,
+      "description": "This is a browser art pad inspired by the mechanical drawing toy, Etch A Sketch. I named it 'Etch-A-Glow' because users can use glowing squares to sketch their designs."
+    },
+    {
+      "id": 9,
+      "description": "This is an interactive map application I developed using HTML, CSS, and JavaScript. Users can record their adventures and details such as how much it cost, when it happened, and the duration for future reference."
+    },
+    {
+      "id": 10,
+      "description": "A fully responsive web page for a fictional luxury hotel company called 'Nexter'."
+    }
+  ],
+  "show-more-btn": "show more",
+  "show-less-btn": "show less",
+  "learn-more": "more info",
+  "navigation": [
+    {
+      "menuTitle": "home",
+      "href": "/#home"
+    },
+    {
+      "menuTitle": "about",
+      "href": "/#about"
+    },
+    {
+      "menuTitle": "technology",
+      "href": "/#technology"
+    },
+    {
+      "menuTitle": "projects",
+      "href": "/#projects"
+    }
+  ],
+  "footer-contact": "e-mail",
+  "footer-message": "Website by Nick Mullenmeister"
+}
