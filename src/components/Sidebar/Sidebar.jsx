@@ -27,7 +27,7 @@ const Sidebar = () => {
             whileHover='visible'
             animate='hidden'
             variants={socialIconVariants}
-            href='https://github.com/CrativeDev0508'
+            href='https://github.com/CreativeDev0508'
             aria-label='Github'
             target='_blank'
             rel='noreferrer noopener'
