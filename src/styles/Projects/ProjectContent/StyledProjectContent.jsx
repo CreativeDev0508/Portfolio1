@@ -2,6 +2,7 @@ import styled, { css } from 'styled-components';
 
 export const StyledProjectContent = styled.div`
   grid-column: 7 / -1;
+  z-index: 1;
   grid-area: 1 / 7 / -1 / -1;
 
   @media ${props => props.theme.bp.desktopS} {
