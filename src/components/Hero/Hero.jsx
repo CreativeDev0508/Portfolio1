@@ -83,7 +83,7 @@ const Hero = () => {
                     {t('resume-btn')}
                   </motion.a> */}
 
-                  <StyledLanguageButton
+                  {/* <StyledLanguageButton
                     whileTap={
                       shouldReduceMotion ? { scale: 1 } : { scale: 0.97 }
                     }
@@ -92,7 +92,7 @@ const Hero = () => {
                   >
                     <GlobeSVG />
                     <span>{lang === 'en' ? '日本語' : 'English'}</span>
-                  </StyledLanguageButton>
+                  </StyledLanguageButton> */}
                 </motion.div>
               </StyledTextBox>
             </motion.div>
