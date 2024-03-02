@@ -23,6 +23,17 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
+    title: '動画共有サイト',
+    description:
+      'A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently.',
+    technologies: ['React.js', 'TypeScript', 'Node.js', 'Express.js', 'MongoDB'],
+    imageUrl: 'rasters/project/video.png',
+    mobileUrl: 'rasters/project/video.png',
+    repository: '',
+    livelink: 'https://ains-frontend.vercel.app/'
+  },
+  {
+    id: crypto.randomUUID(),
     title: '自動発注システム',
     description:
       "An application based on the traditional game with two extra player choices originating from 'The Big Bang Theory'. Users can play against a computer on their mobile device or desktop and try to get a high score.",
@@ -37,7 +48,7 @@ export const projectData = [
     title: '速読システム',
     description:
       'A thematic and responsive calculator that allows users to easily add, subtract, and divide positive integers and floating point numbers.',
-    technologies: ['Next.js', 'Typescript','Laravel', 'mySQL', ],
+    technologies: ['Next.js', 'Typescript', 'Laravel', 'mySQL',],
     imageUrl: 'rasters/project/project4.png',
     mobileUrl: 'rasters/project/project4.png',
     repository: 'https://github.com/CreativeDev0508',
