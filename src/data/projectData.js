@@ -54,17 +54,17 @@ export const projectData = [
     repository: 'https://github.com/CreativeDev0508',
     livelink: 'https://www.pc-sokudoku.co.jp/',
   },
-  // {
-  //   id: crypto.randomUUID(),
-  //   title: 'FiberChart',
-  //   description:
-  //     'A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently.',
-  //   technologies: ['HTML', 'CSS', 'JavaScript (ES6+)'],
-  //   imageUrl: 'rasters/FiberChart.webp',
-  //   mobileUrl: 'rasters/FiberChart.webp',
-  //   repository: 'https://github.com/Mully7773/FiberChart',
-  //   livelink: 'https://mully7773.github.io/FiberChart/',
-  // },
+  {
+    id: crypto.randomUUID(),
+    title: 'Amazon無在庫出品ツール',
+    description:
+      'A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently.',
+    technologies: ['React', 'Node', 'Express', 'MongoDB', 'JavaScript (ES6+)'],
+    imageUrl: 'rasters/project/project5.png',
+    mobileUrl: 'rasters/project/project5.png',
+    repository: '',
+    livelink: 'https://amadeus-export.com/',
+  },
   // {
   //   id: crypto.randomUUID(),
   //   title: 'Huddle',
