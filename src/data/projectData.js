@@ -60,8 +60,8 @@ export const projectData = [
     description:
       'A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently.',
     technologies: ['React', 'Node', 'Express', 'MongoDB', 'JavaScript (ES6+)'],
-    imageUrl: 'rasters/project/project5.png',
-    mobileUrl: 'rasters/project/project5.png',
+    imageUrl: 'rasters/project/project6.png',
+    mobileUrl: 'rasters/project/project6.png',
     repository: '',
     livelink: 'https://amadeus-export.com/',
   },
