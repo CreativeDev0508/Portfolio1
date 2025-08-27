@@ -58,7 +58,7 @@ export const projectData = [
     id: crypto.randomUUID(),
     title: 'Amazon無在庫出品ツール',
     description:
-      'A web application I made with HTML, CSS, and JavaScript for a friend to help him connect fiber internet at work more efficiently.',
+      '',
     technologies: ['React', 'Node', 'Express', 'MongoDB', 'JavaScript (ES6+)'],
     imageUrl: 'rasters/project/project6.png',
     mobileUrl: 'rasters/project/project6.png',
